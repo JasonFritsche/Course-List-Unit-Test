@@ -1,7 +1,7 @@
 # Course-List-Unit-Test
 
 ## Course.cs
-Contains the Course class and constructor
+Contains the Course class and constructor.
 
 ## CourseList.cs
 Contains the courseList class. 
