@@ -1,0 +1,5 @@
+C:\Users\User\Documents\DeVry\CIS339\Week 7\CS-CourseListTest-Shell\CS-CourseListTest\CS-CourseListTest\bin\Debug\CS-CourseListTest.exe
+C:\Users\User\Documents\DeVry\CIS339\Week 7\CS-CourseListTest-Shell\CS-CourseListTest\CS-CourseListTest\bin\Debug\CS-CourseListTest.pdb
+C:\Users\User\Documents\DeVry\CIS339\Week 7\CS-CourseListTest-Shell\CS-CourseListTest\CS-CourseListTest\obj\x86\Debug\CS-CourseListTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DeVry\CIS339\Week 7\CS-CourseListTest-Shell\CS-CourseListTest\CS-CourseListTest\obj\x86\Debug\CS-CourseListTest.exe
+C:\Users\User\Documents\DeVry\CIS339\Week 7\CS-CourseListTest-Shell\CS-CourseListTest\CS-CourseListTest\obj\x86\Debug\CS-CourseListTest.pdb
